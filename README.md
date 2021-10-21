@@ -3,6 +3,9 @@
 (ตัวอย่างการเล่น application)<br />
 Youtube : https://youtu.be/__zgP0sSm-M <br />
 
+Language : Java
+Database : Google Firebase
+
 Users <br />
 
 username: maxk4255k <br />
