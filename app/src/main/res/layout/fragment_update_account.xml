@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background"
+    tools:context=".presentations.fragments.UpdateAccountFragment">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/updateaccount"
+        android:layout_marginBottom="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Account"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:fontFamily="@font/kanit_semibold"
+        android:layout_marginBottom="20dp"/>
+
+    <EditText
+        android:id="@+id/editText_update_firstName"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Firstname"
+        android:fontFamily="@font/kanit_light"
+        android:gravity="center"
+        android:layout_gravity="center" />
+
+    <EditText
+        android:id="@+id/editText_update_lastName"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Lastname"
+        android:fontFamily="@font/kanit_light"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editText_update_phone"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Phone"
+        android:fontFamily="@font/kanit_light"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editText_update_age"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Age"
+        android:fontFamily="@font/kanit_light"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editText_update_address"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Address"
+        android:fontFamily="@font/kanit_light"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/button_save"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/button_cancel"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="Cancel" />
+
+
+</LinearLayout>

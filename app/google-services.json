@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14980436950",
+    "firebase_url": "https://android-native-rudy-test-71367-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-native-rudy-test-71367",
+    "storage_bucket": "android-native-rudy-test-71367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14980436950:android:ee2ac15ed2c5755f21ca77",
+        "android_client_info": {
+          "package_name": "com.example.androidnativerudytesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14980436950-7a4qgud34uk5a2hb59t3umskoj27uuh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubm28rQLFtApHqzrRGfEe6lnmldXE-uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14980436950-7a4qgud34uk5a2hb59t3umskoj27uuh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
