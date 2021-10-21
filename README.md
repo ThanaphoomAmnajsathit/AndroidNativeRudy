@@ -2,7 +2,7 @@
 
 Users
 
-username: maxk4255k
+username: maxk4255k \n
 password: 1234
 
 username: hello
