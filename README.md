@@ -3,8 +3,8 @@
 (ตัวอย่างการเล่น application)<br />
 Youtube : https://youtu.be/__zgP0sSm-M <br />
 
-Language : Java
-Database : Google Firebase
+Language : Java <br />
+Database : Google Firebase <br />
 
 Users <br />
 
